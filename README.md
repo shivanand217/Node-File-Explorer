@@ -13,7 +13,7 @@
   
   Then just enter the name of the github user slash with his/her repo name to explore files contained in that repository.
   
-  Cheers... do whatever you want to do.
+  Do whatever you want to do....:blush:
   
   ![Screen1](../master/img/g1.jpg)
 
